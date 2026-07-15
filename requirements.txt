@@ -1,0 +1,7 @@
+rich
+requests
+cryptography
+pywin32
+matplotlib
+mouse
+psutil
